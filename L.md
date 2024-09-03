@@ -13,3 +13,11 @@
 > 翻译为延迟是不对的。因为latency要表达的是完成一个动作需要时间，完成任何动作都是需要时间的，latency不可能是0。
 >
 > 延迟对应的单词是delay。它表示一个动作推迟了预定的时间有多久。延迟可以为0。
+
+#### LRU
+
+近期最少使用（Least Recently Used）
+
+#### LFU
+
+最小频率使用（Least Frequently Used）

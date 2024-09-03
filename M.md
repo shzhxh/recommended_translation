@@ -9,3 +9,11 @@
 多程序运行。
 
 > 不建议翻译为多道程序。multiprogramming的意思是指多个程序在一个CPU上运行，它扩展了CPU的能力。由此看来multiprogramming不只是软件层面的概念，而是软硬件协同设计的结果，“多道”这样的词不能准确反映这样的意思。
+
+#### MRU
+
+近期最多使用（Most Recently Used）
+
+#### MFU
+
+最高频率使用(Most Frequently Used)
